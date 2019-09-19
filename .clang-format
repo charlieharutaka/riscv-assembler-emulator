@@ -1,0 +1,9 @@
+---
+BasedOnStyle: LLVM
+AlignTrailingComments: 'true'
+AlwaysBreakAfterDefinitionReturnType: All
+BreakBeforeBinaryOperators: All
+BreakBeforeBraces: GNU
+SpaceBeforeParens: Always
+
+...
